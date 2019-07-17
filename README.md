@@ -16,4 +16,4 @@ $ git clone https://github.com/zakbarlow1995/XcodeTheme.git
 
 3. Copy the file `New Vegas.xccolortheme` into the above folder.
 
-4. Restart Xcode and select `New Vegas` from the theme list in `Xcode > Preferences > Fonts & Colors`
+4. Restart Xcode and select `New Vegas` from the theme list in `Xcode > Preferences > Fonts & Colors`.
