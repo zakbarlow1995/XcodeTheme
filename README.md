@@ -1,2 +1,1 @@
-# XcodeTheme
-My Xcode Theme - New Vegas
+# 🎨 My Xcode Theme - New Vegas
