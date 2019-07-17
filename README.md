@@ -2,6 +2,8 @@
 
 This repository contains the Xcode theme that I use. Feel free to use/modify it to your liking.
 
+![](Example.png)
+
 ## Installation
 
 1. Clone this repo:
